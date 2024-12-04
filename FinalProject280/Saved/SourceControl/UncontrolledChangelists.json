@@ -5,11 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/mindp/OneDrive/Documents/280-Final-Project/FinalProject280/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
 				"C:/Users/mindp/OneDrive/Documents/280-Final-Project/FinalProject280/Content/FirstPerson/Input/IMC_Default.uasset",
-				"C:/Users/mindp/OneDrive/Documents/280-Final-Project/FinalProject280/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
 				"C:/Users/mindp/OneDrive/Documents/280-Final-Project/FinalProject280/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/A2RN2P0VY8BHLBD0WO1E6F.uasset",
-				"C:/Users/mindp/OneDrive/Documents/280-Final-Project/FinalProject280/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset"
+				"C:/Users/mindp/OneDrive/Documents/280-Final-Project/FinalProject280/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset",
+				"C:/Users/mindp/OneDrive/Documents/280-Final-Project/FinalProject280/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/mindp/OneDrive/Documents/280-Final-Project/FinalProject280/Content/LevelPrototyping/WallRunLevel.umap",
+				"C:/Users/mindp/OneDrive/Documents/280-Final-Project/FinalProject280/Content/FirstPerson/Blueprints/PlayerStateEnum.uasset",
+				"C:/Users/mindp/OneDrive/Documents/280-Final-Project/FinalProject280/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"C:/Users/mindp/OneDrive/Documents/280-Final-Project/FinalProject280/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset"
 			]
 		}
 	]
